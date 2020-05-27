@@ -1,1 +1,2 @@
-https://oualidbouhali.github.io/qcmweb/
+# AppliQcmExo7
+Github.io : https://chabbertbenjamin.github.io/AppliQcmExo7_BC/
