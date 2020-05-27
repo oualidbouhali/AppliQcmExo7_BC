@@ -1,1 +1,1 @@
-# qcmweb
+# AppliQcmExo7
